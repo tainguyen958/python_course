@@ -1,1 +1,2 @@
-print()
+print("xin chao")
+
